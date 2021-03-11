@@ -8,3 +8,9 @@ My name is [Joshua van der Poll](https://joshuavanderpoll.nl). I'm a web develop
 
 - E-mail: [joshua@jvdpoll.nl](mailto://joshua@jvdpoll.nl)
 - LinkedIn: [Joshuavdpoll](https://www.linkedin.com/in/joshuavdpoll/)
+
+---
+
+#### Stats
+
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luseres&show_icons=true&theme=dark)
