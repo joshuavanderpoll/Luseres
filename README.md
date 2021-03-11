@@ -14,3 +14,7 @@ My name is [Joshua van der Poll](https://joshuavanderpoll.nl). I'm a web develop
 #### Stats
 
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luseres&show_icons=true&theme=dark)
+
+<br><br>
+
+![Joshua's Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luseres&show_icons=true&theme=dark)
