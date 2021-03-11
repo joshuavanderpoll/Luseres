@@ -4,7 +4,7 @@ My name is [Joshua van der Poll](https://joshuavanderpoll.nl). I'm a web develop
 
 ---
 
-#### 📫 Contact
+#### 📫  Contact
 
 - E-mail: [joshua@jvdpoll.nl](mailto://joshua@jvdpoll.nl)
 - LinkedIn: [Joshuavdpoll](https://www.linkedin.com/in/joshuavdpoll/)
