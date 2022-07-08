@@ -1,6 +1,6 @@
 Hi,
 
-My name is [Joshua van der Poll](https://joshuavanderpoll.nl). I'm a web developer at Orderdaily in Amsterdam. In my GitHub you can find projects for my education and personal projects.
+My name is [Joshua van der Poll](https://joshuavanderpoll.nl). I'm a web developer at Bikemates in Amsterdam. In my GitHub you can find projects for my education and personal projects.
 
 ---
 
@@ -14,5 +14,3 @@ My name is [Joshua van der Poll](https://joshuavanderpoll.nl). I'm a web develop
 #### Stats
 
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuavanderpoll&show_icons=true&theme=dark)
-
-![Joshua's Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuavanderpoll&show_icons=true&theme=dark)
