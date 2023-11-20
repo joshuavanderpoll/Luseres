@@ -20,10 +20,3 @@
 <p align='center'>E-Mail: <a href="mailto://joshua@jvdpoll.nl" target="_blank">joshua@jvdpoll.nl</a></p>
 <p align='center'>LinkedIn: <a href="https://www.linkedin.com/in/joshuavdpoll/" target="_blank">joshuavdpoll</a></p>
 <p align='center'>Website: <a href="https://jvdpoll.nl" target="_blank">https://jvdpoll.nl</a></p>
-
-<h2 align='center'>GitHub Statistics</h2>
-
-<p align='center'>
-  <img style='display:block;margin: 15px auto;' src="https://github-readme-stats.vercel.app/api?username=joshuavanderpoll&show_icons=true&theme=radical&PAT_1" />
-  <img style='display:block;margin: 15px auto;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuavanderpoll&hide_progress=true&theme=radical&PAT_1" />
-</p>
